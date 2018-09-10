@@ -1,0 +1,2 @@
+# krishna
+simple codes 
